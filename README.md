@@ -84,4 +84,4 @@ Gems are great. They're a powerful tool and crucial to your success as a Ruby on
 [paperclip]: https://github.com/thoughtbot/paperclip
 [awesome_index]: https://github.com/sindresorhus/awesome
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-how-to-find-gems-readme' title='How to Find Gems'>How to Find Gems</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG How to Find Gems</p>
