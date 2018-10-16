@@ -84,4 +84,8 @@ Gems are great. They're a powerful tool and crucial to your success as a Ruby on
 [paperclip]: https://github.com/thoughtbot/paperclip
 [awesome_index]: https://github.com/sindresorhus/awesome
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-how-to-find-gems-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-how-to-find-gems-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
+
 <p data-visibility='hidden'>PHRG How to Find Gems</p>
